@@ -1,0 +1,44 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     4064 MB
+    Driver:   20.19.15.4549
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\Google_Drive\GitHub\BattleArena\BattleArena_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\Google_Drive\GitHub\BattleArena\BattleArena_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\Google_Drive\GitHub\BattleArena\BattleArena_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\Google_Drive\GitHub\BattleArena\BattleArena_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\Google_Drive\GitHub\BattleArena\BattleArena_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\Google_Drive\GitHub\BattleArena\BattleArena_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\Google_Drive\GitHub\BattleArena\BattleArena_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\Google_Drive\GitHub\BattleArena\BattleArena_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: G:\Google_Drive\GitHub\BattleArena\BattleArena_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading G:\Google_Drive\GitHub\BattleArena\BattleArena_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: G:\Google_Drive\GitHub\BattleArena\BattleArena_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading G:\Google_Drive\GitHub\BattleArena\BattleArena_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.024 seconds
+Platform assembly: G:\Google_Drive\GitHub\BattleArena\BattleArena_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\Google_Drive\GitHub\BattleArena\BattleArena_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.140286 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.637136 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 415.
+Total: 0.312252 ms (FindLiveObjects: 0.032370 ms CreateObjectMapping: 0.027238 ms MarkObjects: 0.201325 ms  DeleteObjects: 0.050528 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.649292 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 626.
+Total: 0.273960 ms (FindLiveObjects: 0.035133 ms CreateObjectMapping: 0.013816 ms MarkObjects: 0.207641 ms  DeleteObjects: 0.016579 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1920 -> priority: 1 
+  Thread -> id: 30b4 -> priority: 1 
